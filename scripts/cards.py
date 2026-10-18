@@ -182,9 +182,14 @@ def projects(t):
     return frame(t, 268, "02 · PROJECTS", "".join(b))
 
 
+# Only these public repos are listed, in this order; private ones appear once made public.
+FEATURED = ["Hackathon-Norse-Whiteboard", "step-quest", "AI-Snake-Game", "christmas-addon", "classkeeper"]
+
+
 def readme_table(repos):
+    by_name = {r["name"]: r for r in repos}
     rows = [f"| [{r['name']}]({r['url']}) | {r['lang'] or '—'} | {r['pushed']} | {r['desc'].replace('|', '/')} |"
-            for r in repos if r["name"] != USER]
+            for r in (by_name[n] for n in FEATURED if n in by_name)]
     return "\n".join(["| REPO | LANG | LAST PUSH | NOTE |", "|---|---|---|---|", *rows])
 
 
