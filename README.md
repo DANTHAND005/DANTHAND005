@@ -26,6 +26,15 @@
 <summary><b>ALL PUBLIC REPOS</b></summary>
 
 <!-- repos:start -->
+| REPO | LANG | LAST PUSH | NOTE |
+|---|---|---|---|
+| [danthand005.github.io](https://github.com/DANTHAND005/danthand005.github.io) | HTML | 2026-10-17 |  |
+| [step-quest](https://github.com/DANTHAND005/step-quest) | Dart | 2026-10-12 | Multiplayer step tracker: walk, earn coins, compete with friends. ASE420 individual project. |
+| [Christmas-Minecraft-MP](https://github.com/DANTHAND005/Christmas-Minecraft-MP) | — | 2026-10-09 |  |
+| [Hackathon-Norse-Whiteboard](https://github.com/DANTHAND005/Hackathon-Norse-Whiteboard) | JavaScript | 2026-10-04 |  |
+| [ase230](https://github.com/DANTHAND005/ase230) | — | 2026-09-18 |  |
+| [classkeeper](https://github.com/DANTHAND005/classkeeper) | JavaScript | 2026-05-08 |  |
+| [AI-Snake-Game](https://github.com/DANTHAND005/AI-Snake-Game) | Python | 2026-04-10 | Autonomous Snake AI using Deep Q-Learning and PyTorch trained agent learns to play through reinforcement learning.  |
 <!-- repos:end -->
 
 </details>
