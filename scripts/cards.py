@@ -198,8 +198,8 @@ def main():
         for name, svg in (("ident", ident(t)), ("activity", activity(t, days)), ("projects", projects(t))):
             open(f"{name}_{mode}.svg", "w").write(svg)
     readme = open("README.md").read()
-    readme = re.sub(r"(<!-- repos:start -->\n).*?(\n<!-- repos:end -->)",
-                    lambda m: m.group(1) + readme_table(repos) + m.group(2), readme, flags=re.S)
+    readme = re.sub(r"(<!-- repos:start -->).*?(<!-- repos:end -->)",
+                    lambda m: m.group(1) + "\n" + readme_table(repos) + "\n" + m.group(2), readme, flags=re.S)
     open("README.md", "w").write(readme)
 
 
