@@ -30,10 +30,10 @@
 <!-- repos:start -->
 | REPO | LANG | LAST PUSH | NOTE |
 |---|---|---|---|
-| [Hackathon-Norse-Whiteboard](https://github.com/DANTHAND005/Hackathon-Norse-Whiteboard) | JavaScript | 2026-10-04 |  |
-| [step-quest](https://github.com/DANTHAND005/step-quest) | Dart | 2026-10-12 | Multiplayer step tracker: walk, earn coins, compete with friends. ASE420 individual project. |
-| [AI-Snake-Game](https://github.com/DANTHAND005/AI-Snake-Game) | Python | 2026-04-10 | Autonomous Snake AI using Deep Q-Learning and PyTorch trained agent learns to play through reinforcement learning.  |
-| [classkeeper](https://github.com/DANTHAND005/classkeeper) | JavaScript | 2026-05-08 |  |
+| [Hackathon-Norse-Whiteboard](https://github.com/DANTHAND005/Hackathon-Norse-Whiteboard) | JavaScript | 2026-10-04 | AI study whiteboard with live drawing and a Gemini tutor. 4th place, NKU Hackathon 2026. React, Supabase. |
+| [step-quest](https://github.com/DANTHAND005/step-quest) | Dart | 2026-10-12 | Social step-tracking game: iPhone steps become coins and friend leaderboards. Flutter app, FastAPI backend, 35 tests. |
+| [AI-Snake-Game](https://github.com/DANTHAND005/AI-Snake-Game) | Python | 2026-04-10 | Deep Q-Learning agent in PyTorch that learns Snake. Peak score 63, 21x the untrained baseline. NKU undergraduate research. |
+| [classkeeper](https://github.com/DANTHAND005/classkeeper) | JavaScript | 2026-05-08 | Full-stack student planner that imports assignments from the Canvas LMS API. React, Node.js, Express, MongoDB, JWT. |
 <!-- repos:end -->
 
 </details>
