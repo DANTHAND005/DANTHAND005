@@ -19,7 +19,7 @@
 
 | PROJECT | WHAT IT IS | LINKS |
 |---|---|---|
-| **Night City Office** | A Claude lead plans and reviews work for 5 local LLMs across two machines, then applies it to Roblox Studio, Blender and Figma through MCP | private for now |
+| **Night City Office** | A Claude lead plans and reviews work for 5 local LLMs across two machines, then applies it to Roblox Studio, Blender and Figma through MCP | [Code](https://github.com/DANTHAND005/night-city-office) |
 | **Norse Whiteboard** | AI study whiteboard with live drawing and a Gemini tutor. 4th place, NKU Hackathon | [Live demo](https://danthand005.github.io/Hackathon-Norse-Whiteboard/) · [Code](https://github.com/DANTHAND005/Hackathon-Norse-Whiteboard) |
 | **Step Quest** | iPhone steps → coins → friend leaderboards. FastAPI + Flutter, 35 tests | [Code](https://github.com/DANTHAND005/step-quest) |
 | **ClassKeeper** | Full-stack student planner with Canvas LMS import | [Code](https://github.com/DANTHAND005/classkeeper) |
